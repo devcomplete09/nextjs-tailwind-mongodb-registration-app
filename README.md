@@ -1,1 +1,1 @@
-Video for this repo: https://youtu.be/z3qFC93PMRo
+Build Registration App - Sign up & Login for beginners | Next.js, MongoDB, Tailwind - Video here: https://youtu.be/z3qFC93PMRo
